@@ -1,0 +1,2 @@
+{"id":"qb-002","latitude":50.32,"longitude":78.64,"confidence":88,"brightness":329.4,"frp":52.1,"satellite":"MODIS","source":"MODIS_NRT","timestamp":"2026-04-13T13:34:43.196697Z","distance_km":43.4}
+{"id":"qb-001","latitude":50.02,"longitude":79.48,"confidence":94,"brightness":336.8,"frp":64.2,"satellite":"VIIRS","source":"VIIRS_SNPP_NRT","timestamp":"2026-04-13T16:34:43.196697Z","distance_km":26.6}

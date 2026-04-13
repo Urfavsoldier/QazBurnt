@@ -1,0 +1,39 @@
+{
+  "kpis": [
+    { "label": "активные очаги", "value": "37", "delta": "+12 за сутки", "icon": "flame" },
+    { "label": "регионы риска", "value": "8", "delta": "3 критические", "icon": "shield" },
+    { "label": "под угрозой", "value": "14", "delta": "населенных пунктов", "icon": "users" },
+    { "label": "доверие модели", "value": "88%", "delta": "MODIS + VIIRS", "icon": "radio" }
+  ],
+  "trendData": [
+    { "day": "Пн", "fires": 11, "confirmed": 8 },
+    { "day": "Вт", "fires": 16, "confirmed": 12 },
+    { "day": "Ср", "fires": 14, "confirmed": 11 },
+    { "day": "Чт", "fires": 23, "confirmed": 17 },
+    { "day": "Пт", "fires": 28, "confirmed": 22 },
+    { "day": "Сб", "fires": 25, "confirmed": 19 },
+    { "day": "Вс", "fires": 37, "confirmed": 29 }
+  ],
+  "forecast24": [
+    { "hour": "00:00", "risk": 42, "wind": 16 },
+    { "hour": "04:00", "risk": 48, "wind": 19 },
+    { "hour": "08:00", "risk": 57, "wind": 22 },
+    { "hour": "12:00", "risk": 69, "wind": 28 },
+    { "hour": "16:00", "risk": 82, "wind": 34 },
+    { "hour": "20:00", "risk": 77, "wind": 31 },
+    { "hour": "24:00", "risk": 71, "wind": 26 }
+  ],
+  "severityPie": [
+    { "name": "Критический", "value": 18, "color": "#ff3d00" },
+    { "name": "Высокий", "value": 34, "color": "#ff7a00" },
+    { "name": "Средний", "value": 29, "color": "#f6c85f" },
+    { "name": "Низкий", "value": 19, "color": "#8fbf7f" }
+  ],
+  "dangerousRegions": [
+    { "region": "Абайская область", "score": 94, "fires": 8, "wind": 31, "reason": "сухой хвойный массив" },
+    { "region": "Восточно-Казахстанская область", "score": 89, "fires": 6, "wind": 28, "reason": "горный ветер и сухость" },
+    { "region": "Акмолинская область", "score": 81, "fires": 5, "wind": 24, "reason": "степной фронт" },
+    { "region": "Павлодарская область", "score": 77, "fires": 4, "wind": 22, "reason": "повторные VIIRS-точки" },
+    { "region": "Костанайская область", "score": 69, "fires": 3, "wind": 20, "reason": "нацпарк под наблюдением" }
+  ]
+}

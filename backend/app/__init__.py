@@ -1,0 +1,1 @@
+"""QazBurnt FastAPI backend package."""

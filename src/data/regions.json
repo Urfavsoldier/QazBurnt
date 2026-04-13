@@ -1,0 +1,74 @@
+[
+  {
+    "id": "abay",
+    "name": "Абайская область",
+    "center": [49.88, 79.18],
+    "risk": "критический",
+    "humidity": 21,
+    "wind": 28,
+    "temperature": 33
+  },
+  {
+    "id": "akmola",
+    "name": "Акмолинская область",
+    "center": [51.75, 69.7],
+    "risk": "высокий",
+    "humidity": 25,
+    "wind": 22,
+    "temperature": 31
+  },
+  {
+    "id": "kostanay",
+    "name": "Костанайская область",
+    "center": [52.7, 63.65],
+    "risk": "высокий",
+    "humidity": 27,
+    "wind": 24,
+    "temperature": 30
+  },
+  {
+    "id": "almaty",
+    "name": "Алматинская область",
+    "center": [44.92, 77.52],
+    "risk": "средний",
+    "humidity": 34,
+    "wind": 17,
+    "temperature": 29
+  },
+  {
+    "id": "turkistan",
+    "name": "Туркестанская область",
+    "center": [43.25, 68.27],
+    "risk": "высокий",
+    "humidity": 19,
+    "wind": 21,
+    "temperature": 36
+  },
+  {
+    "id": "west",
+    "name": "Западно-Казахстанская область",
+    "center": [50.1, 51.15],
+    "risk": "средний",
+    "humidity": 31,
+    "wind": 18,
+    "temperature": 28
+  },
+  {
+    "id": "pavlodar",
+    "name": "Павлодарская область",
+    "center": [52.29, 76.96],
+    "risk": "высокий",
+    "humidity": 24,
+    "wind": 25,
+    "temperature": 32
+  },
+  {
+    "id": "east",
+    "name": "Восточно-Казахстанская область",
+    "center": [49.95, 82.62],
+    "risk": "критический",
+    "humidity": 20,
+    "wind": 29,
+    "temperature": 34
+  }
+]
